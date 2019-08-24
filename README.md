@@ -12,14 +12,14 @@ An airplane reservation system developed with infinite lines of Java code compil
 
 # What I Learned :
 
-* Developed a user interface within the Windows Forms App (.NET Framework) using ToolStrip, TextBox, Label & Button.
+* Developed a user interface within the Java GUI Application using NetBeans IDE.
+* Parsing data between multiple form application. 
 * Implemented functinality to the UI: `buttonClick`, `disableButtons`, `newGame`, & `resetCount`.
-* Integrated Tic Tac Toe logic strategy to the `winnerCheck` function. (based on [Wikipedia's strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy))
 
 # Future ideas include :
 
-* Add an ability to have the X and O on the board be different colors.
-* Implement an unbeatable AI in single player mode.
-* Welcome screen to let player switch between single player and multiplayer mode.
+* Add an ability to manage multiple flights and bookings.
+* Implement an database management system such as save all current sessions and ability to restore.
+* Administrator Log-in screen and account mangagement feature.
 
 `Copyright © 2017 Wutipat Khamnuansin, All rights reserved.`
