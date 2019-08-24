@@ -13,7 +13,7 @@ An airplane reservation system developed with infinite lines of Java code compil
 # What I Learned :
 
 * Developed a user interface within the Java GUI Application using NetBeans IDE components such as TextBox, Label, Buttons, Table, MessageBox, etc.
-* Parsing data between multiple form application. 
+* Parsing data between multiple form application using object oriented programming knowledge. 
 * Implemented seat reservation functinality to the program: `CancelSeat`, `ConfirmSeat`, `UpdateSeat`, `ShowData`, `SaveData`, `SaveBoardingPass`, etc.
 
 # Future ideas include :
