@@ -1,0 +1,8 @@
+DECIBEL AIRLINES BOARDING PASS
+
+Seat :  E5
+Name :  Sarah Pao
+Passport No. :  12345
+
+Please remember your data for flight cancellation. 
+© 2018 Decibel Airlines.
