@@ -24,6 +24,12 @@ An airplane reservation system developed with infinite lines of Java code compil
 
 # License
 
-* Except where otherwise noted, this project is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+## Source Code License
+
+Licensed under [The MIT License](https://github.com/wisn/knights-tour/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
+
+## Documentation License
+
+All reading materials from this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You could use this repository as your reference as long as you give the attribution.
 
 > Copyright © 2018 Wutipat Khamnuansin, All rights reserved.
